@@ -19,3 +19,7 @@ We can check what changes was made to the remote on Git Hub after we started wor
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would use Google Drive to collaborate. It would be easier to access files and there would be no need to invest time in learning Git as Google Drive is easier to use. But version-control will be tougher and I think resolving conflicts will not be easy.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Master is the main branch which every developer working with me will be using. Directly updating master without telling the others about the changes which I made can lead to bugs and other problems. It would be easier to directly make changes in the master branch but it would be more beneficial and informative if we make changes in a seperate branch.

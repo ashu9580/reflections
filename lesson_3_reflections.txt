@@ -15,3 +15,7 @@ Branches are what we copy when we clone or fork a repository.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 We can check what changes was made to the remote on Git Hub after we started working on it offline and how can we resolve the conflicts.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would use Google Drive to collaborate. It would be easier to access files and there would be no need to invest time in learning Git as Google Drive is easier to use. But version-control will be tougher and I think resolving conflicts will not be easy.
